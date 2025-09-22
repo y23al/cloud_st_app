@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(streamlit run:*)",
+      "Bash(tasklist)",
+      "Bash(findstr:*)",
+      "Bash(python -m streamlit run:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
